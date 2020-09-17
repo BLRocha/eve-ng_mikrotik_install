@@ -1,6 +1,10 @@
 #!/bin/sh
 
+mkdir /opt/unetlab/addons/qemu/mikrotik-6.46.7
+
 cd /opt/unetlab/addons/qemu/mikrotik-6.46.7
+
+wget https://download.mikrotik.com/routeros/6.46.7/chr-6.46.7.vmdk
 
 mikrotik_image=`ls`
 
