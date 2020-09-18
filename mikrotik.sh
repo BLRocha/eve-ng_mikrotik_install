@@ -12,4 +12,6 @@ mikrotik_image=`ls`
 
 /opt/unetlab/wrappers/unl_wrapper -a fixpermissions
 
+rm -rf chr-6.46.7.vmdk
+
 exit 0
