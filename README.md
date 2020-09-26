@@ -7,10 +7,5 @@
 ```
 sh -c "$(curl -sSL https://raw.githubusercontent.com/BLRocha/eve-ng_mikrotik_install/master/mikrotik.sh)"
 ```
-ou
-
-```
-sh -c "$(curl -sSL https://pastebin.com/raw/ZQ0nAqGr)"
-```
 
 <span style="color: blue">Atualizado:</span> <code >26/Set/2020</code>
