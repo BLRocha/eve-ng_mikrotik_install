@@ -14,4 +14,6 @@ mikrotik_image=`ls`
 
 rm -rf chr-6.46.7.vmdk
 
+echo "Ok"
+
 exit 0
